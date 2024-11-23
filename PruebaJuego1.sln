@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PajaroVOlador", "PajaroVOlador\PajaroVOlador.vcxproj", "{DC563590-201A-4812-B499-746E8A84E619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC563590-201A-4812-B499-746E8A84E619}.Debug|x64.ActiveCfg = Debug|x64
+		{DC563590-201A-4812-B499-746E8A84E619}.Debug|x64.Build.0 = Debug|x64
+		{DC563590-201A-4812-B499-746E8A84E619}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC563590-201A-4812-B499-746E8A84E619}.Debug|x86.Build.0 = Debug|Win32
+		{DC563590-201A-4812-B499-746E8A84E619}.Release|x64.ActiveCfg = Release|x64
+		{DC563590-201A-4812-B499-746E8A84E619}.Release|x64.Build.0 = Release|x64
+		{DC563590-201A-4812-B499-746E8A84E619}.Release|x86.ActiveCfg = Release|Win32
+		{DC563590-201A-4812-B499-746E8A84E619}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0051C757-BA47-467A-81A6-CADF3D53E308}
+	EndGlobalSection
+EndGlobal
